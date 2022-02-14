@@ -1,4 +1,4 @@
-"# aplikacja_klient_serwer " 
+# aplikacja_klient_serwer  
 
 Aplikacja została przygotowana w czasie studiów. Przedstawia komunikację między klientem a serwerem. Aplikacja została wykonana w technologii Java. Opiera się na dwóch klasach: klasa Klient.java oraz klasa Serwer.java.
 
