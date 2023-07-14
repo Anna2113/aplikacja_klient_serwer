@@ -1,12 +1,12 @@
 # aplikacja_klient_serwer  
 
-Aplikacja została przygotowana w czasie studiów. Przedstawia komunikację między klientem a serwerem. Aplikacja została wykonana w technologii Java. Opiera się na dwóch klasach: klasa Klient.java oraz klasa Serwer.java.
+####The application represents the communication between the client and the server. It was made in Java technology. It is based on two classes: the Client.java class and the Server.java class.
 
-Aplikację klonujemy i uruchamiamy np. w IntelliJ IDEA (środowisko programistyczne dla Javy). Najpierw uruchamiamy plik Serwer.java, a nastepnie Klient.java. Kiedy serwer i klient połączą się ujrzymy następujący efekt:
+####We clone the application and run it, for example, in IntelliJ IDEA (a development environment for Java). First we run the Server.java file, and then the Client.java. When the server and client connect we will see the following effect:
 
 <img width="430" alt="1" src="https://user-images.githubusercontent.com/79476690/114687852-7010fb80-9d14-11eb-966b-5748a6a08240.png">
 
-Następnie klient wysyła wiadomość do serwera, a serwer odpowiada.
+####The client then sends a message to the server, and the server responds.
 
 <img width="430" alt="2" src="https://user-images.githubusercontent.com/79476690/114688335-e281db80-9d14-11eb-81e1-6848a7960996.png">
 
